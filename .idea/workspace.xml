@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69a3207f-81f0-47ca-9e06-04a765156c85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/brain/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brain/util/obj/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brain/util/obj/base_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brain/util/obj/base_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brain/util/obj/base_obj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,7 @@
       <updated>1700906109115</updated>
       <workItem from="1700906111242" duration="1234000" />
       <workItem from="1700907368806" duration="3320000" />
-      <workItem from="1700921573133" duration="669000" />
+      <workItem from="1700921573133" duration="990000" />
     </task>
     <servers />
   </component>
