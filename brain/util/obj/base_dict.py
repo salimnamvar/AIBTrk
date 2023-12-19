@@ -330,3 +330,17 @@ class BaseDict(Generic[T_key, T_value]):
             ValuesView[T_value]: A view object displaying the values.
         """
         return self._items.values()
+
+    def pop(self, a_key: T_key) -> None:
+        """
+        Remove the item with the specified key.
+
+        This method removes the item with the specified key.
+
+        Args:
+            a_key (T_key): The key of the item to remove.
+
+        Returns:
+            None
+        """
+        self._items.pop(a_key)
